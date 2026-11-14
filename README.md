@@ -13,8 +13,11 @@ Give it a contract address (and optionally a wallet address) and it answers:
 
 ## Live endpoint
 
-**TBD — deployed on the Contabo VPS, port 3001, behind a Cloudflare tunnel**
-(see [DEPLOY.md](DEPLOY.md)).
+**https://skip-hormone-declaration-testimonials.trycloudflare.com**
+
+Deployed on the Contabo VPS (port 3001, screen `mintguard`), behind a
+Cloudflare quick tunnel (screen `cftunnel-mintguard`).
+See [DEPLOY.md](DEPLOY.md).
 
 ## API
 
